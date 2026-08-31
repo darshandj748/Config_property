@@ -10,5 +10,5 @@ management:
       exposure:
         include: "*"
 
-message: ""this is test message"        
+message: "this is test message"        
         
